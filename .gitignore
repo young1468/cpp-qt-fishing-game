@@ -1,0 +1,27 @@
+# Qt
+build/
+*.pro.user
+*.pro.user.*
+*.qbs.user
+
+# 编译产物
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+
+# CMake
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles/
+
+# Qt Creator
+*.autosave
+
+# mac
+.DS_Store
+
+# Windows
+Thumbs.db

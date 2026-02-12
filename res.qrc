@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>img/Icon.png</file>
+        <file>img/background.png</file>
+        <file>music/background_music.wav</file>
+        <file>music/button_voice.wav</file>
+        <file>img/start.png</file>
+        <file>img/background1.png</file>
+        <file>img/Battleground4.png</file>
+        <file>img/bullet1.png</file>
+        <file>img/bullet2.png</file>
+        <file>img/weapon1.png</file>
+        <file>img/weapon2.png</file>
+        <file>img/enemy1/Walking/Wraith_02_Moving Forward_000.png</file>
+        <file>img/enemy1/Walking/Wraith_02_Moving Forward_001.png</file>
+        <file>img/enemy1/Walking/Wraith_02_Moving Forward_002.png</file>
+        <file>img/enemy1/Walking/Wraith_02_Moving Forward_003.png</file>
+        <file>img/enemy1/Walking/Wraith_02_Moving Forward_004.png</file>
+        <file>img/enemy1/Walking/Wraith_02_Moving Forward_005.png</file>
+        <file>img/enemy1/Walking/Wraith_02_Moving Forward_006.png</file>
+        <file>img/enemy1/Walking/Wraith_02_Moving Forward_007.png</file>
+        <file>img/enemy1/Walking/Wraith_02_Moving Forward_008.png</file>
+        <file>img/enemy1/Walking/Wraith_02_Moving Forward_009.png</file>
+        <file>img/enemy1/Walking/Wraith_02_Moving Forward_010.png</file>
+        <file>img/enemy1/Walking/Wraith_02_Moving Forward_011.png</file>
+    </qresource>
+</RCC>
